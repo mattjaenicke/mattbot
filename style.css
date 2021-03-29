@@ -2,3 +2,7 @@ header {
   height: 100px;
   background: #fff;
 }
+
+.LandbotFullpage {
+  inset: 100px 0 0;
+}
